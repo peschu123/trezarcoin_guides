@@ -16,7 +16,7 @@
 
 [Pools](https://trezarcoin.com/pools)
 
-Thistutorial is made with altminer.net
+This tutorial is made with altminer.net
 
 ## Miner setup
 
