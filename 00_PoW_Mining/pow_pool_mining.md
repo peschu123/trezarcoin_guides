@@ -16,7 +16,7 @@
 
 [Pools](https://trezarcoin.com/pools)
 
-This tutorial is made with altminer.net
+Thistutorial is made with altminer.net
 
 ## Miner setup
 
@@ -26,10 +26,10 @@ You need to create a .bat file and place it next to your ccminer.exe/sgminer.exe
     ccminer64_65.exe -a neoscrypt -o stratum+tcp://eu1.altminer.net:4233 -u YOURADDRESS -p c=TZC
 
 > Defines:
-
-     -a | defines your algorithm
-     -o | Stratum pool+port
-     -O | Username (your address) : Password
+>
+> -a | Defines your algorithm\
+> -o | Stratum pool+port\
+> -O | Username (your address) : Password
 
 ## GPU (NSGminer)
 
@@ -39,13 +39,13 @@ You need to create a .bat file and place it next to your nsgminer.exe – This .
 
 (Config for R9 280x)
 
-Defines:
-
-    –algorithm | Defines NeoScrypt Algorithm
-    -I -g1 -w | Intensity and Speccs you need to figure out what values work for your card.
-    -o | Stratum pool + port
-    -u | Username ( Your adress )
-    -p | Password (Passwort is for choosing your coin at altminer.net )
+> Defines:
+>
+> –algorithm | Defines NeoScrypt Algorithm\
+> -I -g1 -w | Intensity and Speccs you need to figure out what values work for your card.\
+> -o | Stratum pool + port\
+> -u | Username ( Your adress )\
+> -p | Password (Passwort is for choosing your coin at altminer.net )
 
 Here are some configs for the NSGMiner ( Not all are up to date )
 
@@ -56,13 +56,13 @@ https://github.com/Totenfluch/minerx/blob/master/MinerX/src/me/MinerX/Specs.java
 You need to create a .bat file and place it next to your ccminer.exe/sgminer.exe – This .bat file should include following lines:
     cpuminer-gw64-core2.exe -a neoscrypt -t 6 -o stratum+tcp://eu1.altminer.net:4233 -u YOURADDRESS -p c=TZC
 
-Defines:
-
-    -a | Algorithm
-    -o | Stratum pool + port
-    -t  | Intensity ( you need to figure out what values work for you )
-    -u | Username (Your adress)
-    -p | Passowrd
+> Defines:
+>
+> -a | Algorithm\
+> -o | Stratum pool + port\
+> -t  | Intensity ( you need to figure out what values work for you )\
+> -u | Username (Your address)\
+> -p | Password
 
 ## Solo Mining
 
