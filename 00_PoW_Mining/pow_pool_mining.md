@@ -1,4 +1,4 @@
-# Pool Mining  ![Trezarcoin](../share/images/tzcLogoPage_32x32.png "Trezarcoin")
+# Pool Mining  [![Trezarcoin](../share/images/tzcLogoPage_32x32.png "Trezarcoin")](https://trezarcoin.com)
 
 ## Download the wallet and get your TZC address
 
