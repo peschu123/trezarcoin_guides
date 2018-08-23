@@ -1,23 +1,23 @@
-# Pool Mining
+# Pool Mining  ![Trezarcoin](../share/images/tzcLogoPage_32x32.png "Trezarcoin")
 
 ## Download the wallet and get your TZC address
 
-[Windows](https://github.com/TrezarCoin/TrezarCoin/releases/download/v1.0.0.0-tzc/trezarcoin-win32-1.0.0.0.zip) [MacOs](https://github.com/TrezarCoin/TrezarCoin/releases/download/v1.1.0.0-tzc/trezarcoin-MacOS-1.1.0.0.zip) [Linux](https://trezarcoin.com/wp-content/uploads/2017/10/linux_PNG5-2-e1507211654199.png)
-[Source](https://github.com/TrezarCoin/TrezarCoin/archive/v1.1.0.0-tzc.tar.gz)
+[Windows](https://github.com/TrezarCoin/TrezarCoin/releases/download/v1.0.0.0-tzc/trezarcoin-win32-1.0.0.0.zip "Windows wallet") [MacOs](https://github.com/TrezarCoin/TrezarCoin/releases/download/v1.1.0.0-tzc/trezarcoin-MacOS-1.1.0.0.zip "OSX wallet") [Linux](https://trezarcoin.com/wp-content/uploads/2017/10/linux_PNG5-2-e1507211654199.png "Linux wallet")
+[Source](https://github.com/TrezarCoin/TrezarCoin/archive/v1.1.0.0-tzc.tar.gz "Source code")
 
 ![wallet](images/wallet.jpg)
 
 ## Choose your mining software
 
-* [AMD](https://github.com/ghostlander/nsgminer/releases)
-* [NVIDIA](https://github.com/tpruvot/ccminer/releases)
-* [CPU](https://github.com/tpruvot/cpuminer-multi/releases)
+* [AMD](https://github.com/ghostlander/nsgminer/releases "NSGminer")
+* [NVIDIA](https://github.com/tpruvot/ccminer/releases "ccminer")
+* [CPU](https://github.com/tpruvot/cpuminer-multi/releases "CPUMiner-Multi")
 
 ## Choose your favorite pool
 
-[Pools](https://trezarcoin.com/pools)
+[Pools](https://trezarcoin.com/pools "Trezarcoin pool overview")
 
-This tutorial is made with altminer.net
+This tutorial is made with `altminer.net`
 
 ## Miner setup
 
@@ -46,7 +46,7 @@ You need to create a .bat file and place it next to your nsgminer.exe – This .
 > -I -g1 -w | Intensity and Speccs you need to figure out what values work for your card.\
 > -o | Stratum pool + port\
 > -u | Username ( Your adress )\
-> -p | Password (Passwort is for choosing your coin at altminer.net )
+> -p | Password (Passwort is for choosing your coin at `altminer.net` )
 
 Here are some configs for the NSGMiner ( Not all are up to date )
 
