@@ -1,0 +1,13 @@
+site_name: Trezarcoin
+site_url: https://trezarcoin.com
+site_description: Project documentation with Markdown.
+site_author: TrezarCr3w
+
+repo_url: https://github.com/peschu123/trezardocs
+edit_uri: ""
+
+nav:
+    - Home: README.md
+    - User Guide:
+        - PoW Mining: 00_PoW_Mining/pow_pool_mining.md
+        - Styling Your Docs: 10_PoW_PoS_Basics/pow_pos_basics.md
