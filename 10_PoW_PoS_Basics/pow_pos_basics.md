@@ -1,4 +1,4 @@
-# TZC
+# TZC  [![Trezarcoin](../share/images/tzcLogoPage_32x32.png "Trezarcoin")](https://trezarcoin.com)
 
 ## MINING, STAKING & WALLET CONFIGURATION
 
