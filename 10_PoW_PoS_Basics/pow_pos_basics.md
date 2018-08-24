@@ -1,6 +1,6 @@
-# TZC  [![Trezarcoin](../share/images/tzcLogoPage_32x32.png "Trezarcoin")](https://trezarcoin.com)
+# [![Trezarcoin](../share/images/tzcLogoPage_32x32.png "Trezarcoin")](https://trezarcoin.com) TZC
 
-## MINING, STAKING & WALLET CONFIGURATION
+## MINING, STAKING & WALLET CONFIGURATION 
 
 ### PoW & PoS Basics Guide
 
