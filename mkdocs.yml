@@ -6,8 +6,10 @@ site_author: TrezarCr3w
 repo_url: https://github.com/peschu123/trezardocs
 edit_uri: ""
 
-nav:
-    - Home: README.md
+pages:
+    - Home: index.md
     - User Guides:
         - PoW Mining: 00_pow_pool_mining.md
         - PoW & PoS Basics: 10_pow_pos_basics.md
+
+theme: readthedocs
