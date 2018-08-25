@@ -8,8 +8,7 @@ edit_uri: ""
 
 pages:
     - Home: index.md
-    - User Guides:
-        - PoW Mining: 00_pow_pool_mining.md
-        - PoW & PoS Basics: 10_pow_pos_basics.md
+    - PoW Mining: 00_pow_pool_mining.md
+    - PoW & PoS Basics: 10_pow_pos_basics.md
 
 theme: readthedocs
