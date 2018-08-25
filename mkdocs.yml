@@ -8,6 +8,6 @@ edit_uri: ""
 
 nav:
     - Home: README.md
-    - User Guide:
-        - PoW Mining: 00_PoW_Mining/pow_pool_mining.md
-        - Styling Your Docs: 10_PoW_PoS_Basics/pow_pos_basics.md
+    - User Guides:
+        - PoW Mining: 00_pow_pool_mining.md
+        - Styling Your Docs: 10_pow_pos_basics.md
