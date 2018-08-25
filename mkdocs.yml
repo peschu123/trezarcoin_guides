@@ -10,4 +10,4 @@ nav:
     - Home: README.md
     - User Guides:
         - PoW Mining: 00_pow_pool_mining.md
-        - Styling Your Docs: 10_pow_pos_basics.md
+        - PoW & PoS Basics: 10_pow_pos_basics.md
